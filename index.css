@@ -91,7 +91,7 @@ h6 {
 /*--------------------*/
 
 body {
-    background-image: url(./img/Mobile-bg.png);
+    background-image: url(./assets/img/Mobile-bg.png);
     background-position: top;
     background-repeat: repeat-y;
     background-size: cover;
@@ -391,7 +391,7 @@ body {
 
 @media (min-width: 768px) {
     body {
-        background-image: url(./img/Desktop-bg.png);
+        background-image: url(./assets/img/Desktop-bg.png);
         background-position: center;
     }
 
